@@ -47,7 +47,7 @@ class piggyBank {
     [===========================================]
             Welcome to your own piggy Bank!
     )" << std::endl;
-    std::cout << "          Your current balance: " << std::fixed << std::setprecision(5) << balance << std::endl;
+    std::cout << "          Your current balance: " << std::fixed << std::setprecision(2) << balance << std::endl;
                 std::cout << R"(
     [===========================================]
      Withdraw [W]     Add money [A]     Leave [L]
