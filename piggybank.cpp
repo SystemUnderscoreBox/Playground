@@ -20,7 +20,7 @@ std::string paswrd;
 
     What I like about this project is that it utilizes a .txt file to store user's data
     permanently. This allows for long-term storage and multi-user application. The code, 
-    as messy at it is, has been a personal project of mine to look into the strange and
+    as messy as it is, has been a personal project of mine to look into the strange and
     difficult world of C++. 
 
     Project by SystemUnderscoreBox (Github).
