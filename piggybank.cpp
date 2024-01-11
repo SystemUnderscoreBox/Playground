@@ -147,7 +147,7 @@ class piggyBank {
                    
                 } 
                 
-                outFile << row[0] << " " << row[1] << " " << row[2] << "\n";               
+                outFile << row[0] << " " << row[1] << " " << row[2] << std::endl;               
                 
 
             } outFile.close();
@@ -284,7 +284,7 @@ class users {
         void saveUserDB() {
             std::ofstream file("userDB.txt", std::ios::app);            
 
-            file << newuser[0] << " " << newuser[1] << " " << newuser[2] << "\n";
+            file << newuser[0] << " " << newuser[1] << " " << newuser[2] << std::endl;
             
             file.close();
         }
