@@ -1,0 +1,4 @@
+Paul password 40.000000
+sid sidpass 10
+ada adapass 0
+
